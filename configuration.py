@@ -1,0 +1,5 @@
+URL_SERVICE = "https://cnt-758be4eb-3af1-4eb7-8aea-41c462d36726.containerhub.tripleten-services.com"
+DOC_PATH = "/api/v1/kits?cardId=1"
+CREATE_USER_PATH = "/api/v1/users/"
+PRODUCTS_KITS_PATH = "/api/v1/products/kits/"
+endpoint_crear_kit = "/api/v1/kits"
