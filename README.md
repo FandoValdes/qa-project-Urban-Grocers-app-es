@@ -10,5 +10,6 @@ Para instalar Pytest
 Usando el comando "pip" en la terminal:
 
 Abre la terminal o consola.
-Ingresa el comando pip install pytest.
-pip es el gesgittor de paquetes de Python. Te permite instalar y gestionar bibliotecas, así como herramientas adicionales.
+Ingresa el comando "pip install pytest"
+pip es el gesgittor de paquetes de Python.
+Te permite instalar y gestionar bibliotecas, así como herramientas adicionales.
